@@ -172,8 +172,6 @@ Permite testar todos os endpoints (GET, POST, PUT, DELETE) diretamente pelo nave
 
 Este projeto utiliza **MongoDB** em vez de SQLite. O conector `djongo` permite continuar usando o Django ORM com o Django REST Framework, sem alterar a forma como modelos, serializers e views são escritos.
 
-Não há arquivo `db.sqlite3` no repositório.
-
 ## Licença
 
 MIT
