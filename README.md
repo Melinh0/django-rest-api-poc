@@ -1,5 +1,7 @@
 # POC - API com Django Rest Framework
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Prova de conceito (POC) de uso de API com Django Rest Framework, MongoDB e documentação automática via Swagger (drf-yasg).
 
 ## Tecnologias
@@ -174,4 +176,4 @@ Este projeto utiliza **MongoDB** em vez de SQLite. O conector `djongo` permite c
 
 ## Licença
 
-MIT
+Este projeto está licenciado sob a licença [MIT](LICENSE).
